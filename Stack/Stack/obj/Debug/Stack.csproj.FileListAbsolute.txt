@@ -1,0 +1,7 @@
+C:\Users\1\Desktop\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Stack\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Stack\Stack\bin\Debug\CodeBlogStack.exe.config
+C:\Users\1\Desktop\Stack\Stack\bin\Debug\CodeBlogStack.exe
+C:\Users\1\Desktop\Stack\Stack\bin\Debug\CodeBlogStack.pdb
+C:\Users\1\Desktop\Stack\Stack\obj\Debug\CodeBlogStack.exe
+C:\Users\1\Desktop\Stack\Stack\obj\Debug\CodeBlogStack.pdb
